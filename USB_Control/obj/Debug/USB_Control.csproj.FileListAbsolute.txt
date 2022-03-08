@@ -1,0 +1,13 @@
+C:\Users\Yatte Miru\Documents\USB_Control\USB_Control\bin\Debug\USB_Control.exe.config
+C:\Users\Yatte Miru\Documents\USB_Control\USB_Control\bin\Debug\USB_Control.exe
+C:\Users\Yatte Miru\Documents\USB_Control\USB_Control\bin\Debug\USB_Control.pdb
+C:\Users\Yatte Miru\Documents\USB_Control\USB_Control\obj\Debug\USB_Control.csproj.AssemblyReference.cache
+C:\Users\Yatte Miru\Documents\USB_Control\USB_Control\obj\Debug\USB_Control.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yatte Miru\Documents\USB_Control\USB_Control\obj\Debug\USB_Control.Form1.resources
+C:\Users\Yatte Miru\Documents\USB_Control\USB_Control\obj\Debug\USB_Control.Properties.Resources.resources
+C:\Users\Yatte Miru\Documents\USB_Control\USB_Control\obj\Debug\USB_Control.csproj.GenerateResource.cache
+C:\Users\Yatte Miru\Documents\USB_Control\USB_Control\obj\Debug\USB_Control.csproj.CoreCompileInputs.cache
+C:\Users\Yatte Miru\Documents\USB_Control\USB_Control\obj\Debug\USB_Control.exe
+C:\Users\Yatte Miru\Documents\USB_Control\USB_Control\obj\Debug\USB_Control.pdb
+C:\Users\Yatte Miru\Documents\USB_Control\USB_Control\bin\Debug\UsbLibrary.dll
+C:\Users\Yatte Miru\Documents\USB_Control\USB_Control\obj\Debug\USB_Control.csproj.CopyComplete
